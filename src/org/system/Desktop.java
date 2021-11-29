@@ -18,7 +18,7 @@ public class Desktop implements Software,Hardware {
 		
 	}
 	private void desktopcolour() {
-		System.out.println("black colour");
+		System.out.println("white colour");
 
 	}
 public static void main(String[] args) {
