@@ -18,7 +18,7 @@ public class Desktop implements Software,Hardware {
 		
 	}
 	private void desktoptype() {
-		System.out.println("keyboard type");
+		System.out.println("keyboard type1");
 
 	}
 	
