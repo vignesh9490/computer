@@ -18,16 +18,18 @@ public class Desktop implements Software,Hardware {
 		
 	}
 	private void desktoptype() {
-		System.out.println("keyboard type1");
+		System.out.println("keyboard type2");
 
 	}
+	
 	
 public static void main(String[] args) {
 	Desktop a = new Desktop();
 	a.desktopModel();
 	a.softwareResources();
 	a.hardwareResources();
-	a.desktoptype();		
+	a.desktoptype();
+	
 
 }
 	
