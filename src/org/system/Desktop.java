@@ -17,12 +17,17 @@ public class Desktop implements Software,Hardware {
 		System.out.println("software of desktop is:windows10,version-10.0.19042 built 19042");
 		
 	}
+	private void desktoptype() {
+		System.out.println("keyboard type");
+
+	}
+	
 public static void main(String[] args) {
 	Desktop a = new Desktop();
 	a.desktopModel();
 	a.softwareResources();
 	a.hardwareResources();
-			
+	a.desktoptype();		
 
 }
 	
